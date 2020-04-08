@@ -2,5 +2,6 @@
 echo"Nama   : Dian Sulistyarini"."\n";
 echo"Kelas  : XI RPL 1"."\n";
 echo"Sekolah: SMK Taruna Bhakti Depok"."\n";
-echo"Alamat Rumah: Palsigunung Mekarsari";
+echo"No_hp  : 085776323922"."\n";
+echo"Email  : diansulistyarini07@gmail.com";
 ?>
